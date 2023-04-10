@@ -1,0 +1,388 @@
+#EXTM3U #ULUSAL KANALLAR İÇERİR | SON GÜNCELLENME 10:44 07.04.2023 | TV#
+
+
+#EXTINF:-1 tvg-id="atv.tr" tvg-name="TR: ATV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/69f2d05081701e62d382efdeadb96438.png" tvg-id2="TV=" group-title="TR| ULUSAL",ATV
+http://45.143.222.41:8080/dooby1312/b244f7ab/521
+#EXTINF:0 CUID="26527" tvg-name="KANAL D HD" tvg-id="kanald.tr" tvg-logo="http://1.bp.blogspot.com/-IO3JWqWeWKs/Xk14fjxOjfI/AAAAAAAAYEM/BJAkaa1cAwMW_aCBV-cs8UDGRhufCZaSgCLcBGAsYHQ/s1600/kanald.jpg" group-title="TR| ULUSAL",KANAL D HD
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+#EXTINF:0 CUID="26531" tvg-name="STAR TV" tvg-id="starstv.pl" tvg-logo="http://4.bp.blogspot.com/-hQx6pQycT50/Xk15lvb9I7I/AAAAAAAAYFM/duGh4WrAxDEdZBjdlyNAcCEd8LSHPoqPgCLcBGAsYHQ/s1600/star.jpg" group-title="TR| ULUSAL",STAR TV
+https://dogus-live.daioncdn.net/startv/startv_720p.m3u8
+#EXTINF:0 CUID="26538" tvg-name="SHOWTÜRK" tvg-id="showtürk.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Show_Turk_logo.svg/399px-Show_Turk_logo.svg.png" group-title="TR| ULUSAL",SHOWTÜRK
+https://mn-nl.mncdn.com/blutv_showturk2/live.m3u8
+#EXTINF:-1 tvg-id="showmax.tr" tvg-name="TR: SHOW MAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1c57771c05e8df7447c81f63051d0d.png" tvg-id2="TV=" group-title="TR| ULUSAL",SHOW MAX
+http://45.143.222.41:8080/dooby1312/b244f7ab/534
+#EXTINF:-1 tvg-id="fox.tr" tvg-name="TR: FOX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8830c4b3dfd8964820cefa5b7720e5e6.png" tvg-id2="TV=" group-title="TR| ULUSAL",FOX
+http://45.143.222.41:8080/dooby1312/b244f7ab/514
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 8" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/80bde6a213099c808a72e8a7cd615f59.png" tvg-id2="TV=" group-title="TR| ULUSAL",TV 8
+http://45.143.222.41:8080/dooby1312/b244f7ab/278465
+#EXTINF:-1 tvg-id="tv8.tr" tvg-name="TR: TV 8.5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efc2c50389886db316bc636196a23f2f.png" tvg-id2="TV=" group-title="TR| ULUSAL",TV 8.5
+http://45.143.222.41:8080/dooby1312/b244f7ab/518
+#EXTINF:-1 tvg-id="beyaztv.tr" tvg-name="TR: Beyaz TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/117d727a93dbf7466f92f0da411e26a5.png" tvg-id2="TV=" group-title="TR| ULUSAL",Beyaz TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/524
+#EXTINF:-1 tvg-id="" tvg-name="TR: TGRT EU" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/91f2384e2be17c28fb4d3e7ae3a911bb.png" tvg-id2="TV=" group-title="TR| ULUSAL",TGRT EU
+http://45.143.222.41:8080/dooby1312/b244f7ab/32907
+#EXTINF:-1 tvg-id="kanal7.tr" tvg-name="TR: Kanal 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3e53703637c336bbcdf1035b512cd0d6.png" tvg-id2="TV=" group-title="TR| ULUSAL",Kanal 7
+http://45.143.222.41:8080/dooby1312/b244f7ab/525
+#EXTINF:-1 tvg-id="" tvg-name="TR: 360" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1855a28f3b5ae332650665dfc364236b.png" tvg-id2="TV=" group-title="TR| ULUSAL",360
+http://45.143.222.41:8080/dooby1312/b244f7ab/615
+#EXTINF:-1 tvg-id="a2tv.tr" tvg-name="TR: A2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e9ce6186c612d640a4e75ed305ff3ca8.png" tvg-id2="TV=" group-title="TR| ULUSAL",A2
+http://45.143.222.41:8080/dooby1312/b244f7ab/523
+#EXTINF:-1 tvg-id="" tvg-name="TR: Teve 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b68122f40311239b2169b2db393bc455.png" tvg-id2="TV=" group-title="TR| ULUSAL",Teve 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/535
+#EXTINF:-1 tvg-id="" tvg-name="TR: EM TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dbfbb1bc27870351d2c46601ffef1ffc.jpg" tvg-id2="TV=" group-title="TR| ULUSAL",EM TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/604
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ac0610a7e164f2a427658b58aec70a89.png" tvg-id2="TV=" group-title="TR| ULUSAL",Cem TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/663
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3acf5adde7f247d07451b88c7d1f2fd7.png" tvg-id2="TV=" group-title="TR| ULUSAL",TV 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/76645
+#EXTINF:-1 tvg-id="" tvg-name="TR: Kanal 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/72f771d5f790772993a09e4f11fb5d0b.png" tvg-id2="TV=" group-title="TR| ULUSAL",Kanal 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/603
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2c667c03e4a1aa588fbf581f5f5ff6e7.png" tvg-id2="TV=" group-title="TR| ULUSAL",TV 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/646
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cine 5" tvg-logo="http://s3.i3ns.net/portal/picon/2022-12/6747b19306e60ba4e2af48c17bb708e5.png" tvg-id2="TV=" group-title="TR| ULUSAL",Cine 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/297035
+#EXTINF:-1 tvg-id="" tvg-name="TR: TV 5" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3b62f7560a2a5bbf820c5b45cfee46af.png" tvg-id2="TV=" group-title="TR| ULUSAL",TV 5
+http://45.143.222.41:8080/dooby1312/b244f7ab/599
+#EXTINF:-1 tvg-id="" tvg-name="TR: Meltem TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/756afdb0b4c5c5822870f2650294029a.png" tvg-id2="TV=" group-title="TR| ULUSAL",Meltem TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/73228
+#EXTINF:-1 tvg-id="trt1.tr" tvg-name="TR: TRT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/63bc976ccc960656def70edc42a71d6a.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/507
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b376110bbffd0080e60b0904b424d0dc.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/635
+#EXTINF:-1 tvg-id="trtturk.tr" tvg-name="TR: TRT Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7aaf60ae8c58a76e9925540dc91ad578.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/831
+#EXTINF:-1 tvg-id="" tvg-name="TR: TRT 4K" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b7cce6fc6565cdcf493af768731819cb.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT 4K
+http://45.143.222.41:8080/dooby1312/b244f7ab/1810
+#EXTINF:-1 tvg-id="trtcocuk.tr" tvg-name="TR: TRT Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c97918044ad2996399fd692049b7397.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Cocuk
+http://45.143.222.41:8080/dooby1312/b244f7ab/629
+#EXTINF:-1 tvg-id="trthaber.tr" tvg-name="TR: TRT Haber" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5a4b8f4b49043acfe3689f2f9223d4e2.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Haber
+http://45.143.222.41:8080/dooby1312/b244f7ab/627
+#EXTINF:-1 tvg-id="trtmuzik.tr" tvg-name="TR: TRT Muzik" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6bb9f49cc8db4ec89ab4dcf92856d76a.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Muzik
+http://45.143.222.41:8080/dooby1312/b244f7ab/630
+#EXTINF:-1 tvg-id="trtspor.tr" tvg-name="TR: TRT Spor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b48e2102ca3ffba0bdbcebcb419bbd17.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Spor
+http://45.143.222.41:8080/dooby1312/b244f7ab/528
+#EXTINF:-1 tvg-id="trtavaz.tr" tvg-name="TR: TRT Avaz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7ed4a4f9ada13603fdf725e1f85c5ba7.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT Avaz
+http://45.143.222.41:8080/dooby1312/b244f7ab/622
+#EXTINF:-1 tvg-id="trtworld.tr" tvg-name="TR: TRT World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ed414aa74c0d7648f3645f55c1286a28.png" tvg-id2="TV=" group-title="TR| ULUSAL",TRT World
+http://45.143.222.41:8080/dooby1312/b244f7ab/11025
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Anadolu Dernek TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a1f92359d98ce02ef645af013b043456.png" tvg-id2="TV=" group-title="TR| YEREL",Anadolu Dernek TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/36065
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekin Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/44271f22cf991603525355d8de5768ad.png" tvg-id2="TV=" group-title="TR| YEREL",Ekin Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/267866
+#EXTINF:-1 tvg-id="" tvg-name="TR: Aksu TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/755fea42c80ebcdd26729661ecc2ce4d.png" tvg-id2="TV=" group-title="TR| YEREL",Aksu TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/659
+#EXTINF:-1 tvg-id="" tvg-name="TR: Altas TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e09e08e03b5fdf057a3101f27c373d05.png" tvg-id2="TV=" group-title="TR| YEREL",Altas TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/656
+#EXTINF:-1 tvg-id="" tvg-name="TR: Afyon Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/3ce117b9235f750c2bc9fa9588ea11ae.jpg" tvg-id2="TV=" group-title="TR| YEREL",Afyon Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/163242
+0
+#EXTINF:-1 tvg-id="" tvg-name="TR: AS TV Bursa" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c2ed49571c185cec5be5491ad751215e.png" tvg-id2="TV=" group-title="TR| YEREL",AS TV Bursa
+http://45.143.222.41:8080/dooby1312/b244f7ab/58133
+#EXTINF:-1 tvg-id="" tvg-name="TR: ATV ALANYA" tvg-logo="http://s3.i3ns.net/portal/picon/2022-03/c2548469c208d52e124748f4b3b84858.jfif" tvg-id2="TV=" group-title="TR| YEREL",ATV ALANYA
+http://45.143.222.41:8080/dooby1312/b244f7ab/280341
+#EXTINF:-1 tvg-id="" tvg-name="TR: Beykent TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1d521026daa570bd150e6b422f2ec8d9.png" tvg-id2="TV=" group-title="TR| YEREL",Beykent TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/36067
+#EXTINF:-1 tvg-id="" tvg-name="TR: BRTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/81fe6801d807c03d7b71c7274468c695.png" tvg-id2="TV=" group-title="TR| YEREL",BRTV
+http://45.143.222.41:8080/dooby1312/b244f7ab/58143
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bursa TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/89d912f685dc8641e1d6837ab157126f.jpg" tvg-id2="TV=" group-title="TR| YEREL",Bursa TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/655
+#EXTINF:-1 tvg-id="" tvg-name="TR: DRT Denizli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad3c9b390ce5493380d518c986589498.png" tvg-id2="TV=" group-title="TR| YEREL",DRT Denizli
+http://45.143.222.41:8080/dooby1312/b244f7ab/36070
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ege Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/7c282c99e06af77cdf10f5a44937c966.png" tvg-id2="TV=" group-title="TR| YEREL",Ege Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/281381
+#EXTINF:-1 tvg-id="" tvg-name="TR: Cay TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/92b0125575b642e7302830e17de427a3.png" tvg-id2="TV=" group-title="TR| YEREL",Cay TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/7710
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ciftci TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/746e947197d6d8f249d6599fdcb3a77c.png" tvg-id2="TV=" group-title="TR| YEREL",Ciftci TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/76684
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vizyon 58" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/433f55c03d2c85585b378eb4b069f13f.png" tvg-id2="TV=" group-title="TR| YEREL",Vizyon 58
+http://45.143.222.41:8080/dooby1312/b244f7ab/665
+#EXTINF:-1 tvg-id="" tvg-name="TR: Merkez TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ce35714674e85bc75d39156b22281881.jpg" tvg-id2="TV=" group-title="TR| YEREL",Merkez TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/600
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rehber TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f2c8f413761fa809e24b3d2b37435fa0.png" tvg-id2="TV=" group-title="TR| YEREL",Rehber TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/15676
+#EXTINF:-1 tvg-id="" tvg-name="TR: Rumeli TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fa1f8ed970fdd9441f56cf473beeba03.png" tvg-id2="TV=" group-title="TR| YEREL",Rumeli TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/76644
+
+
+
+
+#EXTINF:-1 tvg-id="beinboxoffice1.tr" tvg-name="TR: beIN Box Office 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/bd21663ad8c4d4c1ac6440b3f40ba746.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Box Office 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/536
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/adea4a88280fb88d0c2232343a33a69e.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Box Office 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/281863
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Box Office 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d76fd2683c5c3a355f92d2e71afc5.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Box Office 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/538
+#EXTINF:-1 tvg-id="beinmoviesaction.tr" tvg-name="TR: beIN Movies Action" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ca1d2bb923338f5d520918b981135d91.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Action
+http://45.143.222.41:8080/dooby1312/b244f7ab/1761
+#EXTINF:-1 tvg-id="" tvg-name="TR: beIN Movies Action 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0c72fbf1b70577e54df906132c848507.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Action 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/278527
+#EXTINF:-1 tvg-id="beinmoviesfamily.tr" tvg-name="TR: beIN Movies Family" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/75e47808eb64b20e1611e171c8a17339.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Family
+http://45.143.222.41:8080/dooby1312/b244f7ab/1763
+#EXTINF:-1 tvg-id="beinmoviespremier.tr" tvg-name="TR: beIN Movies Premiere" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c2308f19e292f658c25f7eeb320302c.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Premiere
+http://45.143.222.41:8080/dooby1312/b244f7ab/1764
+#EXTINF:-1 tvg-id="beinmoviespremiere2.tr" tvg-name="TR: beIN Movies Premiere 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8132ccbeac2354ea63bf6b409a16a261.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Premiere 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1765
+#EXTINF:-1 tvg-id="beinmoviesstars.tr" tvg-name="TR: beIN Movies Stars" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d0118fa3eedb7b7ec361b78a1cd3e4.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Stars
+http://45.143.222.41:8080/dooby1312/b244f7ab/1766
+#EXTINF:-1 tvg-id="beinmoviesturk.tr" tvg-name="TR: beIN Movies Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cdb8893f36235adb4e32d276d5a5d3fb.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Movies Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/1767
+#EXTINF:-1 tvg-id="beinseriescomedy.tr" tvg-name="TR: beIN Series Comedy" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/adf92f2916a0009d7b4f31870656b093.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Series Comedy
+http://45.143.222.41:8080/dooby1312/b244f7ab/1768
+#EXTINF:-1 tvg-id="beinseriesdrama.tr" tvg-name="TR: beIN Series Drama" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/e62d82be35a5c21cae0c62a78dbf8cd3.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Series Drama
+http://45.143.222.41:8080/dooby1312/b244f7ab/1769
+#EXTINF:-1 tvg-id="beinseriesscifi.tr" tvg-name="TR: beIN Series sci-fi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf507af54d2ac2a97c0d29eb11228cc5.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Series sci-fi
+http://45.143.222.41:8080/dooby1312/b244f7ab/8231
+#EXTINF:-1 tvg-id="beinseriesvice.tr" tvg-name="TR: beIN Series Vice" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a85386e5f0ba61e22a977adb64670bab.png" tvg-id2="TV=" group-title="TR| SINEMA",beIN Series Vice
+http://45.143.222.41:8080/dooby1312/b244f7ab/1771
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fox Crime" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ef0e5e0250f0cc3e2bac80acdf3f841d.png" tvg-id2="TV=" group-title="TR| SINEMA",Fox Crime
+http://45.143.222.41:8080/dooby1312/b244f7ab/579
+#EXTINF:-1 tvg-id="fxnetwork.tr" tvg-name="TR: FX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fd443398dba083c1772b3967e1b2c96c.png" tvg-id2="TV=" group-title="TR| SINEMA",FX
+http://45.143.222.41:8080/dooby1312/b244f7ab/580
+#EXTINF:-1 tvg-id="filmbox.tr" tvg-name="TR: FilmBox" tvg-logo="http://s3.i3ns.net/portal/picon/2021-09/08fc0740f29689d893c10a78608b4f2b.png" tvg-id2="TV=" group-title="TR| SINEMA",FilmBox
+http://45.143.222.41:8080/dooby1312/b244f7ab/533
+#EXTINF:-1 tvg-id="" tvg-name="TR: FilmBox Action" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/c3ad625bc9764714338acec644d400b4.png" tvg-id2="TV=" group-title="TR| SINEMA",FilmBox Action
+http://45.143.222.41:8080/dooby1312/b244f7ab/192414
+#EXTINF:-1 tvg-id="" tvg-name="TR: FilmBox Family" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/fd7db505fd06b8fc5813fcd90e404fc1.png" tvg-id2="TV=" group-title="TR| SINEMA",FilmBox Family
+http://45.143.222.41:8080/dooby1312/b244f7ab/192417
+#EXTINF:-1 tvg-id="" tvg-name="TR: Moviesmart Classic" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5e761d79212e94473ec62fada843f9ac.png" tvg-id2="TV=" group-title="TR| SINEMA",Moviesmart Classic
+http://45.143.222.41:8080/dooby1312/b244f7ab/1773
+#EXTINF:-1 tvg-id="moviesmartpremium.tr" tvg-name="TR: Moviesmart Premium" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/39439f1ba26e0fe22f61bfb2f14ed9fd.png" tvg-id2="TV=" group-title="TR| SINEMA",Moviesmart Premium
+http://45.143.222.41:8080/dooby1312/b244f7ab/1778
+#EXTINF:-1 tvg-id="moviesmartplatin2.tr" tvg-name="TR: Moviesmart Premium 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/c048c60395ab58c1e97490be4120b4f2.png" tvg-id2="TV=" group-title="TR| SINEMA",Moviesmart Premium 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1777
+#EXTINF:-1 tvg-id="moviesmartturk.tr" tvg-name="TR: Moviesmart Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/09ed1dcf29dd0da429d2a7abb958c7eb.png" tvg-id2="TV=" group-title="TR| SINEMA",Moviesmart Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/1780
+#EXTINF:-1 tvg-id="moviesmartfamily.tr" tvg-name="TR: Sinema 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7e777b1a0307186c05cddf9b0854b309.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1774
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1001" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/751db97a44d889859bdc7bd97319ae62.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema 1001
+http://45.143.222.41:8080/dooby1312/b244f7ab/1789
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema 1002" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17ef2ad2d87a709c0e7c766a51fa9b50.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema 1002
+http://45.143.222.41:8080/dooby1312/b244f7ab/76722
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aile" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f7539bc056bf23aa5ac9a8165198554a.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Aile
+http://45.143.222.41:8080/dooby1312/b244f7ab/1794
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/298280700831aef41b02e186d47c65d4.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Aksiyon
+http://45.143.222.41:8080/dooby1312/b244f7ab/1793
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Aksiyon 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7875332e0498d4fadcdfc0da1c2262ea.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Aksiyon 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1772
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4c1c1df07663a91522ab303fab06dbcd.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Komedi
+http://45.143.222.41:8080/dooby1312/b244f7ab/1795
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Komedi 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/269a56ea9163933c11161845516899c7.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Komedi 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/43541
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0656287e0deab66449ec57679c150bac.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/1790
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/8bf3379c2ea4f51aec7ecee160cfc211.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Yerli
+http://45.143.222.41:8080/dooby1312/b244f7ab/1791
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sinema Yerli 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a3d499de7a9a333b823948cc8ec8deb1.png" tvg-id2="TV=" group-title="TR| SINEMA",Sinema Yerli 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/163186
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sozcu TV HD" tvg-logo="https://img.gercekgundem.com/rcman/Cw1280h720q95gc/storage/files/images/2023/04/07/sozcu-tv-odullu-ekran-yuzunu-kadrosuna-katti-1Qb7.jpg" group-title="TR| HABER",TR: SÖZCÜ TV
+https://mn-nl.mncdn.com/blutv_szctv/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Halk TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/5b438ce41e52561c626fd60bde4e4e5a.png" tvg-id2="TV=" group-title="TR| HABER",Halk TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/617
+#EXTINF:-1 tvg-id="" tvg-name="TR: Flash Haber TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/a02ca62066d58a1645aab3ef5b16e6bb.png" tvg-id2="TV=" group-title="TR| HABER",Flash Haber TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/148308
+#EXTINF:0 CUID="1064" tvg-name="TR: KRT HD" tvg-id="krt.tr" tvg-logo="https://logo.iptveditor.com/krt.png" group-title="TR| HABER",KRT HD
+https://krt.blutv.com/blutv_krt_live/live.m3u8
+#EXTINF:0 tvg-name="TR: TELE 1 HD" tvg-id="tele1.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/4/43/Tele1_logosu.png" group-title="TR| HABER",TELE 1 HD
+http://dreammedia.site:2086/mario2009/fsdfgfdsxdf/81262
+#EXTINF:-1 tvg-id="" tvg-name="TR: Arti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/f02440e7c7f381ee4eba7f23ef045e37.png" tvg-id2="TV=" group-title="TR| HABER",Arti TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/1820
+#EXTINF:-1 tvg-id="" tvg-name="TR: Can TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9fc77d8741d3065bfcb94250fc48ee24.png" tvg-id2="TV=" group-title="TR| HABER",Can TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/648
+#EXTINF:-1 tvg-id="" tvg-name="TR: Yol TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/9ad590501c2c1af5222ba1b1bb3baffd.jpg" tvg-id2="TV=" group-title="TR| HABER",Yol TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/583
+#EXTINF:-1 tvg-id="moviesmartplatin.tr" tvg-name="TR: TV 100" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a6411c37a308cdbfa839a8d8399c56ec.png" tvg-id2="TV=" group-title="TR| HABER",TV 100
+http://45.143.222.41:8080/dooby1312/b244f7ab/1776
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haberturk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6ef3885c8277d1547f4cea9c2c0ac833.png" tvg-id2="TV=" group-title="TR| HABER",Haberturk
+http://45.143.222.41:8080/dooby1312/b244f7ab/651
+#EXTINF:-1 tvg-id="" tvg-name="TR: Haber Global" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2ab2a8d67ecd293a69ffd06e8a03fd99.png" tvg-id2="TV=" group-title="TR| HABER",Haber Global
+http://45.143.222.41:8080/dooby1312/b244f7ab/652
+#EXTINF:-1 tvg-id="cnnturk.tr" tvg-name="TR: CNN Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ad88b04ca24f6eb2e2fd89a87f29e683.png" tvg-id2="TV=" group-title="TR| HABER",CNN Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/628
+#EXTINF:-1 tvg-id="ntv.tr" tvg-name="TR: NTV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cf136a7dec7bc93f4f1ad1520f8f9dfd.png" tvg-id2="TV=" group-title="TR| HABER",NTV
+http://45.143.222.41:8080/dooby1312/b244f7ab/668
+#EXTINF:-1 tvg-id="" tvg-name="TR: Bloomberg HT" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3300490032d3e8d8524df217c0c591f2.png" tvg-id2="TV=" group-title="TR| HABER",Bloomberg HT
+http://45.143.222.41:8080/dooby1312/b244f7ab/664
+#EXTINF:-1 tvg-id="" tvg-name="TR: Ekoturk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/54d9044040895ab2b836f405eda08241.png" tvg-id2="TV=" group-title="TR| HABER",Ekoturk
+http://45.143.222.41:8080/dooby1312/b244f7ab/5712
+#EXTINF:-1 tvg-id="" tvg-name="TR: 24 TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/94511af0fe107686cf7fec08a8e9df29.png" tvg-id2="TV=" group-title="TR| HABER",24 TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/636
+
+
+
+#EXTINF:-1 tvg-id="tlc.tr" tvg-name="TR: TLC" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ace9ed69ecaab1ad9351be84fb66613d.png" tvg-id2="TV=" group-title="TR| BELGESEL",TLC
+http://45.143.222.41:8080/dooby1312/b244f7ab/585
+#EXTINF:-1 tvg-id="" tvg-name="TR: NAT GEO" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/50248dfe48a3f0f7319c05a7da2eab69.png" tvg-id2="TV=" group-title="TR| BELGESEL",NAT GEO
+http://45.143.222.41:8080/dooby1312/b244f7ab/278566
+#EXTINF:-1 tvg-id="natgeo.tr" tvg-name="TR: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56d97c6609cc66e0b37f2839505118d5.png" tvg-id2="TV=" group-title="TR| BELGESEL",NAT GEO Wild
+http://45.143.222.41:8080/dooby1312/b244f7ab/838
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Explore" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b199a733ed1ced4e5a12ec6aaade62bd.png" tvg-id2="TV=" group-title="TR| BELGESEL",Viasat Explore
+http://45.143.222.41:8080/dooby1312/b244f7ab/197561
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6b5e58f28087af5e4e386665b549b67d.png" tvg-id2="TV=" group-title="TR| BELGESEL",Viasat History
+http://45.143.222.41:8080/dooby1312/b244f7ab/32589
+#EXTINF:-1 tvg-id="" tvg-name="TR: Viasat Nature" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" tvg-id2="TV=" group-title="TR| BELGESEL",Viasat Nature
+http://45.143.222.41:8080/dooby1312/b244f7ab/284470
+#EXTINF:-1 tvg-id="trtbelgesel.tr" tvg-name="TR: TRT Belgesel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2d5dda60ae62b888b5efb9a46e3603ab.png" tvg-id2="TV=" group-title="TR| BELGESEL",TRT Belgesel
+http://45.143.222.41:8080/dooby1312/b244f7ab/577
+#EXTINF:-1 tvg-id="" tvg-name="TR: Vuslat TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/344049d08e78889075fb4a03936a8dba.png" tvg-id2="TV=" group-title="TR| BELGESEL",Vuslat TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/597
+#EXTINF:-1 tvg-id="yabantv.tr" tvg-name="TR: Yaban" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7425a1ea3d5430e920e5018d9e455e52.png" tvg-id2="TV=" group-title="TR| BELGESEL",Yaban
+http://45.143.222.41:8080/dooby1312/b244f7ab/582
+#EXTINF:-1 tvg-id="historychannel.tr" tvg-name="TR: History" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/0383f737c235ec9523ce712603700d70.png" tvg-id2="TV=" group-title="TR| BELGESEL",History
+http://45.143.222.41:8080/dooby1312/b244f7ab/1801
+#EXTINF:-1 tvg-id="dmax.tr" tvg-name="TR: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1aa674eea8e0dad89403e75596ab261f.png" tvg-id2="TV=" group-title="TR| BELGESEL",DMAX
+http://45.143.222.41:8080/dooby1312/b244f7ab/1805
+#EXTINF:-1 tvg-id="discoveryscience.tr" tvg-name="TR: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/259f5c55c4c7fe17aa7569ec673254c6.png" tvg-id2="TV=" group-title="TR| BELGESEL",Discovery Science
+http://45.143.222.41:8080/dooby1312/b244f7ab/5693
+#EXTINF:-1 tvg-id="discoverychannel.tr" tvg-name="TR: Discovery World" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/7fc32221d2c98b43f8d3178589b8ea47.png" tvg-id2="TV=" group-title="TR| BELGESEL",Discovery World
+http://45.143.222.41:8080/dooby1312/b244f7ab/8236
+#EXTINF:-1 tvg-id="bbcearth.tr" tvg-name="TR: BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/56c9396519be5f17a1cd883cc4524e2a.png" tvg-id2="TV=" group-title="TR| BELGESEL",BBC Earth
+http://45.143.222.41:8080/dooby1312/b244f7ab/8238
+#EXTINF:-1 tvg-id="" tvg-name="TR: ANIMAUX" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/16998deb2c2aa19fe00159e9aecc7bf9.png" tvg-id2="TV=" group-title="TR| BELGESEL",ANIMAUX
+http://45.143.222.41:8080/dooby1312/b244f7ab/32592
+#EXTINF:-1 tvg-id="24kitchen.tr" tvg-name="TR: 24 Kitchen" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/2926de716268ca6fdeba45843203b6b7.png" tvg-id2="TV=" group-title="TR| BELGESEL",24 Kitchen
+http://45.143.222.41:8080/dooby1312/b244f7ab/1808
+#EXTINF:-1 tvg-id="beingurme.tr" tvg-name="TR: beIN Gurme" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ae6ed623d37a8ee71af209e2cc08d22e.png" tvg-id2="TV=" group-title="TR| BELGESEL",beIN Gurme
+http://45.143.222.41:8080/dooby1312/b244f7ab/1807
+#EXTINF:-1 tvg-id="beiniz.tr" tvg-name="TR: beIN Iz" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6e3828293e36f3cc45e82b169e6590e8.png" tvg-id2="TV=" group-title="TR| BELGESEL",beIN Iz
+http://45.143.222.41:8080/dooby1312/b244f7ab/1806
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="TR: Disney Channel" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4b7ef9e32b9c4d64adc3330352ac327f.png" tvg-id2="TV=" group-title="TR| COCUK",Disney Channel
+http://45.143.222.41:8080/dooby1312/b244f7ab/278570
+#EXTINF:-1 tvg-id="cartoonnetwork.tr" tvg-name="TR: Cartoon Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/87598c365695f0ec0734167340a7fbdf.png" tvg-id2="TV=" group-title="TR| COCUK",Cartoon Network
+http://45.143.222.41:8080/dooby1312/b244f7ab/8261
+#EXTINF:-1 tvg-id="" tvg-name="TR: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/51dcf23cb9d1f7f16b31373e2e17aa16.png" tvg-id2="TV=" group-title="TR| COCUK",Boomerang
+http://45.143.222.41:8080/dooby1312/b244f7ab/672
+#EXTINF:-1 tvg-id="" tvg-name="TR: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d17ee4121212f3d15a6d3e96e1b78e6b.png" tvg-id2="TV=" group-title="TR| COCUK",Nick Junior
+http://45.143.222.41:8080/dooby1312/b244f7ab/675
+#EXTINF:-1 tvg-id="" tvg-name="TR: nickelodeon" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/daa5f52e567a2b32067451aede36afc7.png" tvg-id2="TV=" group-title="TR| COCUK",nickelodeon
+http://45.143.222.41:8080/dooby1312/b244f7ab/278469
+#EXTINF:-1 tvg-id="disneychannel.tr" tvg-name="TR: Disney Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/d4bfb7096c986189cad4c27667329846.png" tvg-id2="TV=" group-title="TR| COCUK",Disney Junior
+http://45.143.222.41:8080/dooby1312/b244f7ab/633
+#EXTINF:-1 tvg-id="babytv.tr" tvg-name="TR: Baby TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/fffb2b8070bf9f6d1fb83b084f3e2964.png" tvg-id2="TV=" group-title="TR| COCUK",Baby TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/634
+#EXTINF:-1 tvg-id="" tvg-name="TR: Caillou" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/9e1d0ba765969dbf56cc3ee9338a9cfc.png" tvg-id2="TV=" group-title="TR| COCUK",Caillou
+http://45.143.222.41:8080/dooby1312/b244f7ab/192581
+844
+#EXTINF:-1 tvg-id="" tvg-name="TR: Da Vinci" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/335e4ee4cc0197611dddcc8a6110be6d.png" tvg-id2="TV=" group-title="TR| COCUK",Da Vinci
+http://45.143.222.41:8080/dooby1312/b244f7ab/1850
+#EXTINF:-1 tvg-id="" tvg-name="TR: Minika Cocuk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cd6373e1045f15e3cb8f3b5afd4c7987.png" tvg-id2="TV=" group-title="TR| COCUK",Minika Cocuk
+http://45.143.222.41:8080/dooby1312/b244f7ab/671
+#EXTINF:-1 tvg-id="" tvg-name="TR: Çocuk Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/ea19100b30aec6cd0d72047356274356.png" tvg-id2="TV=" group-title="TR| COCUK",Çocuk Smart
+http://45.143.222.41:8080/dooby1312/b244f7ab/1851
+
+
+
+#EXTINF:0 CUID="26603" tvg-name="KRAL TV" tvg-id="kraltv.tr" tvg-logo="http://2.bp.blogspot.com/-t3xSR6YC6HU/VpF4OZpXI8I/AAAAAAAANZg/hTqT_QL8Q-I/s1600/kraltv.jpg" group-title="TR| MÜZIK",KRAL TV
+https://dogus-live.daioncdn.net/kraltv/playlist.m3u8
+#EXTINF:0 CUID="26604" tvg-name="POWER HD" tvg-id="powertv.pl" tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg" group-title="TR| MÜZIK",POWER HD
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/playist.m3u8
+#EXTINF:0 CUID="26605" tvg-name="POWER HD Seçenek 2" tvg-logo="http://2.bp.blogspot.com/-mn6Bh85QMU8/Xk15B8rbBkI/AAAAAAAAYEo/LNtL7oMBSdUktS1SOGSLS0QicKZgxGeagCLcBGAsYHQ/s1600/power.jpg" group-title="TR| MÜZIK",POWER HD Seçenek 2
+https://mn-nl.mncdn.com/blutv_power2/live.m3u8
+#EXTINF:0 CUID="26606" tvg-name="POWER TURK HD" tvg-id="powertv.pl" tvg-logo="http://2.bp.blogspot.com/-TfR0buPRv8E/Xk15IVF3BAI/AAAAAAAAYEs/3a917DuF23kDxvp8B4948f6Hllbelp97QCLcBGAsYHQ/s1600/powerturk.jpg" group-title="TR| MÜZIK",POWER TURK HD
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/playist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TR: Dream Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/1be142c57226949ef1f97c3508f9fb72.png" tvg-id2="TV=" group-title="TR| MÜZIK",Dream Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/669
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Dance" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/cd64e1bd1763e6d1ceb3dd037fbc270c.png" tvg-id2="TV=" group-title="TR| MÜZIK",Power Dance
+http://45.143.222.41:8080/dooby1312/b244f7ab/291168
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Love" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2d3efb943fe0aaab1f3051800977a3c4.png" tvg-id2="TV=" group-title="TR| MÜZIK",Power Love
+http://45.143.222.41:8080/dooby1312/b244f7ab/291169
+#EXTINF:-1 tvg-id="" tvg-name="TR: Number 1" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/2cc6614dc186a19a177394f280009735.png" tvg-id2="TV=" group-title="TR| MÜZIK",Number 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/1842
+#EXTINF:-1 tvg-id="" tvg-name="TR: Number 1 Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/3be7d409ca7ec3d80158e3e6b9c95cc8.png" tvg-id2="TV=" group-title="TR| MÜZIK",Number 1 Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/5714
+#EXTINF:-1 tvg-id="" tvg-name="TR: PowerTurk Akustik" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2297ce7d28128320035095425f52a806.png" tvg-id2="TV=" group-title="TR| MÜZIK",PowerTurk Akustik
+http://45.143.222.41:8080/dooby1312/b244f7ab/291166
+#EXTINF:-1 tvg-id="" tvg-name="TR: PowerTurk En İyiler" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/b907717a5ece773c0d27777f61b06bf5.png" tvg-id2="TV=" group-title="TR| MÜZIK",PowerTurk En İyiler
+http://45.143.222.41:8080/dooby1312/b244f7ab/291167
+#EXTINF:-1 tvg-id="" tvg-name="TR: PowerTurk Slow" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/4af1de12018680988107e02af1eb48ec.png" tvg-id2="TV=" group-title="TR| MÜZIK",PowerTurk Slow
+http://45.143.222.41:8080/dooby1312/b244f7ab/291165
+#EXTINF:-1 tvg-id="" tvg-name="TR: PowerTurk Taptaze" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/278c1ce27adbc606d9be68464250815a.png" tvg-id2="TV=" group-title="TR| MÜZIK",PowerTurk Taptaze
+http://45.143.222.41:8080/dooby1312/b244f7ab/291164
+#EXTINF:-1 tvg-id="powerturk.tr" tvg-name="TR: Power Turk TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/1ecd725ac8c39b633f26ca04d1d42371.png" tvg-id2="TV=" group-title="TR| MÜZIK",Power Turk TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/1840
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power TV" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/ff327893169baeff490ed86049fd81e7.png" tvg-id2="TV=" group-title="TR| MÜZIK",Power TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/830
+#EXTINF:-1 tvg-id="" tvg-name="TR: Power Plus" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/df0b7e721f414073f1f33df49d35fc98.png" tvg-id2="TV=" group-title="TR| MÜZIK",Power Plus
+http://45.143.222.41:8080/dooby1312/b244f7ab/296298
+#EXTINF:-1 tvg-id="" tvg-name="TR: Metro Turk" tvg-logo="http://s3.i3ns.net/portal/picon/2022-04/8ebea0144f2d0e411d4739b6cfc0b1cb.jfif" tvg-id2="TV=" group-title="TR| MÜZIK",Metro Turk
+http://45.143.222.41:8080/dooby1312/b244f7ab/162296
+#EXTINF:-1 tvg-id="" tvg-name="TR: Milyon TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/efcb01cb757f98b9e986b5ceb023ae6f.png" tvg-id2="TV=" group-title="TR| MÜZIK",Milyon TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/647
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tempo TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/a67d1e1b4ad2e706d5b9502403fcfd6a.png" tvg-id2="TV=" group-title="TR| MÜZIK",Tempo TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/29841
+
+
+
+
+
+#EXTINF:-1 tvg-id="beinsports1.tr" tvg-name="TR: beIN Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/de22be100229320ab6edcdce8de7ba64.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/1735
+#EXTINF:-1 tvg-id="beinsports2.tr" tvg-name="TR: beIN Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/9e0d289e6b96b75e073d74cae50fc8a4.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1737
+#EXTINF:-1 tvg-id="beinsports3.tr" tvg-name="TR: beIN Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/f7d20955aa9bafdb1a3f750f81e15bc9.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/1739
+#EXTINF:-1 tvg-id="beinsports4.tr" tvg-name="TR: beIN Sports 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/c3c50392388c5ec0a094ab2fdb13c874.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/7450
+#EXTINF:-1 tvg-id="beinsportshaber.tr" tvg-name="TR: beIN Sports Haber" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/14b924d7b7ab9bac07505c7bd792ade1.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports Haber
+http://45.143.222.41:8080/dooby1312/b244f7ab/7448
+#EXTINF:-1 tvg-id="beinsportsmax1.tr" tvg-name="TR: beIN Sports Max 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/d53f40a54a2315cb05e9aa96d1061a49.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports Max 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/8224
+#EXTINF:-1 tvg-id="beinsportsmax2.tr" tvg-name="TR: beIN Sports Max 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/7e39fd24865d2511ff67d711c6e0635d.png" tvg-id2="TV=" group-title="TR| SPOR",beIN Sports Max 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/16878
+#EXTINF:-1 tvg-id="eurosport1.tr" tvg-name="TR: EUROSPORT 1" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/fec0a4dd7f3e21b20b9f4ff7c9f15ae4.png" tvg-id2="TV=" group-title="TR| SPOR",EUROSPORT 1
+http://45.143.222.41:8080/dooby1312/b244f7ab/1755
+#EXTINF:-1 tvg-id="eurosport2.tr" tvg-name="TR: EUROSPORT 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-06/433cdc077ed5826b4fe6489086c52bc9.png" tvg-id2="TV=" group-title="TR| SPOR",EUROSPORT 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1756
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fast & FunBox" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9ad27fd0e46199391819becc2402bb71.png" tvg-id2="TV=" group-title="TR| SPOR",Fast & FunBox
+http://45.143.222.41:8080/dooby1312/b244f7ab/576
+#EXTINF:-1 tvg-id="" tvg-name="TR: Fenerbahce TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/011a073d263aac8f8592bc5ecd90b8de.png" tvg-id2="TV=" group-title="TR| SPOR",Fenerbahce TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/575
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/b8523963880349398f435c3e82921f2e.png" tvg-id2="TV=" group-title="TR| SPOR",Spor Smart
+http://45.143.222.41:8080/dooby1312/b244f7ab/1750
+#EXTINF:-1 tvg-id="" tvg-name="TR: Spor Smart 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/dee3b2e8c2b3b040188fa0426c11f752.png" tvg-id2="TV=" group-title="TR| SPOR",Spor Smart 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/50121
+#EXTINF:-1 tvg-id="" tvg-name="TR: Sports TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/cfd75582e9065c9d5f9b57022733df21.png" tvg-id2="TV=" group-title="TR| SPOR",Sports TV
+http://45.143.222.41:8080/dooby1312/b244f7ab/89846
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4fd3ee0aec6a694a19817a2d9eab3be2.png" tvg-id2="TV=" group-title="TR| SPOR",Tivibu Spor
+http://45.143.222.41:8080/dooby1312/b244f7ab/1746
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/6cb69eae857d562e086e65b87143a4e8.png" tvg-id2="TV=" group-title="TR| SPOR",Tivibu Spor 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/1748
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/52f7b4b28ce0ca1b3c19f09198572b3a.png" tvg-id2="TV=" group-title="TR| SPOR",Tivibu Spor 3
+http://45.143.222.41:8080/dooby1312/b244f7ab/1749
+#EXTINF:-1 tvg-id="" tvg-name="TR: Tivibu Spor 4" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/39c4181dadabd0b0d7c5b6d5dba76695.png" tvg-id2="TV=" group-title="TR| SPOR",Tivibu Spor 4
+http://45.143.222.41:8080/dooby1312/b244f7ab/286778
+#EXTINF:-1 tvg-id="ssport.tr" tvg-name="TR: S Sport" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/543cf115a49b83263997399b2cea3ecd.png" tvg-id2="TV=" group-title="TR| SPOR",S Sport
+http://45.143.222.41:8080/dooby1312/b244f7ab/1753
+#EXTINF:-1 tvg-id="" tvg-name="TR: S Sport 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/4309f8d27e6038dd69d1053d4ca5769a.png" tvg-id2="TV=" group-title="TR| SPOR",S Sport 2
+http://45.143.222.41:8080/dooby1312/b244f7ab/10167
+
+
+
+
+
+
+http://45.143.222.41:8080/dooby1312/b244f7ab/281365
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
